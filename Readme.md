@@ -8,7 +8,7 @@ No exploitation or unauthorized access was performed.
 
 ## 📌 1. Company Homepage Identified
 **Main Domain:**  
-https://bnpparibas.com
+https://group.bnpparibas.com
 
 ![Image](https://github.com/user-attachments/assets/870d3d07-4f5b-468b-bc93-6dc204cb7b76)
 
